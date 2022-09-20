@@ -1,0 +1,467 @@
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\libman.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.exe
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.deps.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.dev.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfoInputs.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.MvcApplicationPartsAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.Manifest.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.xml
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\scopedcss\bundle\eviTest.styles.css
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CopyComplete
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.genruntimeconfig.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.input.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.output.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorCoreGenerate.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_017_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.Views.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\libman.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.exe
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.deps.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.dev.json
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfoInputs.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.MvcApplicationPartsAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.Manifest.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.xml
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\scopedcss\bundle\eviTest.styles.css
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.input.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.output.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorCoreGenerate.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.Views.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CopyComplete
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.dll
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.pdb
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.genruntimeconfig.cache
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_success.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_error.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+H:\ESAD_CS_R49\M_07_Core_MVC\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.AssemblyReference.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\libman.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.exe
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.deps.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.runtimeconfig.dev.json
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.pdb
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\eviTest.Views.pdb
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.AssemblyReference.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfoInputs.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.AssemblyInfo.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CoreCompileInputs.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorAssemblyInfo.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.Manifest.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\staticwebassets\eviTest.StaticWebAssets.xml
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\scopedcss\bundle\eviTest.styles.css
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.input.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.TagHelpers.output.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorCoreGenerate.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_error.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_success.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cache
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.RazorTargetAssemblyInfo.cs
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.Views.pdb
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.csproj.CopyComplete
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.dll
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.pdb
+D:\Asp Mvc Core\Class_018_EviTest\eviTest\eviTest\obj\Debug\netcoreapp3.1\eviTest.genruntimeconfig.cache

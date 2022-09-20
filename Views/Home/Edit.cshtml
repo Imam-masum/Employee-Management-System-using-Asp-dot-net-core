@@ -1,0 +1,107 @@
+﻿@model eviTest.Models.ViewModels.CustomerVM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="row">
+    <div class="col">
+        <div id="panel"></div>
+        <h2>Edit Customer</h2>
+        <form id="frmCreate"
+              asp-action="Edit"
+              asp-controller="Home"
+              data-ajax-method="Post"
+              data-ajax="true"
+              data-ajax-mode="replace"
+              data-ajax-update="#panel"
+              data-ajax-success="success">
+            <input asp-for="CustomerId" type="hidden" />
+            <input asp-for="ImageFile" type="hidden" />
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="CustomerName">@Html.DisplayNameFor(x => x.CustomerName)</label>
+                <div class="col-md-6">
+                    <input class="form-control" asp-for="CustomerName" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="Address">@Html.DisplayNameFor(x => x.Address)</label>
+                <div class="col-md-6">
+                    <input class="form-control" asp-for="Address" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="PostCode">@Html.DisplayNameFor(x => x.PostCode)</label>
+                <div class="col-md-6">
+                    <input class="form-control" asp-for="PostCode" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="PostCode" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="DateOfBirth">@Html.DisplayNameFor(x => x.DateOfBirth)</label>
+                <div class="col-md-6">
+                    <input class="form-control" type="date" asp-for="DateOfBirth" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="IsMarried">@Html.DisplayNameFor(x => x.IsMarried)</label>
+                <div class="col-md-6">
+                    <input type="checkbox" asp-for="IsMarried" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="IsMarried" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="CountryId">@Html.DisplayNameFor(x => x.CountryId)</label>
+                <div class="col-md-6">
+                    <select class="form-control" asp-for="CountryId" asp-items="@(new SelectList(ViewBag.countries,"CountryId","CountryName"))">
+                        <option value="0" selected="selected">----Select-----</option>
+                    </select>
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="CountryId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <label class="col-form-label col-2" asp-for="Image">@Html.DisplayNameFor(x => x.Image)</label>
+                <div class="col-md-6">
+                    <input type="file" class="form-control" asp-for="Image" />
+                    <img src="~/Images/@Model.ImageFile"  width="40" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-10 offset-2">
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/lib/jquery.validate.js"></script>
+    <script src="~/lib/jquery.validate.unobtrusive.js"></script>
+    <script src="~/lib/ajax/jquery.unobtrusive-ajax.js"></script>
+    <script type="text/javascript">
+        $("#frmCreate").attr("enctype", "multipart/form-data")
+        function success() {
+            $("#frmCreate").trigger('reset')
+        }
+    </script>
+}
+

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<eviTest.Models.ViewModels.CustomerRetriveVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col">
+        <div class="d-flex justify-content-end">
+            <a class="btn btn-outline-primary" asp-action="Create" asp-controller="Home">Add New Customer</a>
+        </div>
+        <table class="table table-bordered table-sm table-striped mt-2">
+            <thead class="table-warning">
+                <tr>
+                    <th>@Html.DisplayNameFor(x => x.CustomerName)</th>
+                    <th>@Html.DisplayNameFor(x => x.Address)</th>
+                    <th>@Html.DisplayNameFor(x => x.PostCode)</th>
+                    <th>@Html.DisplayNameFor(x => x.DateOfBirth)</th>
+                    <th>@Html.DisplayNameFor(x => x.IsMarried)</th>
+                    <th>@Html.DisplayNameFor(x => x.CountryName)</th>
+                    <th>@Html.DisplayNameFor(x => x.Image)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => item.CustomerName)</td>
+                        <td>@Html.DisplayFor(x => item.Address)</td>
+                        <td>@Html.DisplayFor(x => item.PostCode)</td>
+                        <td>@Html.DisplayFor(x => item.DateOfBirth)</td>
+                        <td>@Html.DisplayFor(x => item.IsMarried)</td>
+                        <td>@Html.DisplayFor(x => item.CountryName)</td>
+                        <td>
+                            @*<img src="@Url.Content(item.Image)" alt="Photo of @item.CustomerName" width="40"/>*@
+                            <img src="~/Images/@item.Image" alt="Photo of @item.CustomerName" width="40" />
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.CustomerId" class="btn btn-outline-success btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.CustomerId" class="btn btn-outline-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+   
+</div>
+

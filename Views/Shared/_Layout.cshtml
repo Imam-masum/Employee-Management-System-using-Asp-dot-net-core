@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <environment include="Development,Production">
+        <link href="~/lib/css/bootstrap.css" rel="stylesheet" />
+        <script src="~/lib/jquery.js"></script>
+    </environment>
+    @RenderSection("styles",required:false)
+</head>
+<body>
+    <div class="bg-warning" style="min-height:20px;">
+
+    </div>
+    <div class="container">
+        <nav class="nav nav-pills bg-light my-3">
+            <li class="nav-item">
+                <a class="nav-link active text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Country" asp-action="Index">Country</a>
+            </li>
+        </nav>
+    </div>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <footer class="container">
+        <p class="text-center">&copy; @DateTime.Now.Year - www.isdb-bisew.org</p>
+    </footer>
+    <environment include="Development,Production">
+        <script src="~/lib/js/bootstrap.js"></script>
+    </environment>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

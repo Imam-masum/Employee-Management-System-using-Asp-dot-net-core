@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "twitter-bootstrap@5.2.0",
+      "destination": "wwwroot/lib"
+    },
+    {
+      "library": "jquery@3.6.0",
+      "destination": "wwwroot/lib"
+    },
+    {
+      "library": "jquery-validate@1.19.5",
+      "destination": "wwwroot/lib"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/lib"
+    },
+    {
+      "provider": "unpkg",
+      "library": "jquery-ajax@2.1.4",
+      "destination": "wwwroot/lib/ajax"
+    },
+    {
+      "library": "jquery-ajax-unobtrusive@3.2.6",
+      "destination": "wwwroot/lib/ajax"
+    }
+  ]
+}
